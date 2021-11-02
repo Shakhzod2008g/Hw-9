@@ -1,0 +1,114 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: darkgray;
+}
+.p{
+    background-color: #DA667B;
+    color: #342A21;
+    text-align: center;
+    margin-bottom: 25px;
+    border: 2px solid black;
+    padding: 20px;
+    font-size: 30px;
+}
+.parent{
+    display: flex;
+    margin-bottom: 25px;
+}
+.name {
+    border: 2px solid black;
+    padding: 20px;
+    margin-right: 25px;
+    font-size: 25px;
+    background-color: #F1EDEE;
+    color: #DB5461;
+}
+.let{
+    border: 2px solid black;
+    margin-right: 25px;
+    padding: 20px;
+    background-color: #686963;
+    color: #3D5467;
+    font-size: 25px;
+}
+.hobby{
+    border: 2px solid black;
+    font-size: 25px;
+    margin-right: 25px;
+    padding: 20px;
+    background-color: #8AA29E;
+    color: #686963;
+}
+.parent2{
+    display: flex;
+    margin-bottom: 25px;
+}
+.gmail{
+    background-color: #663F46;
+    color: #C9D6EA;
+    padding: 20px;
+    margin-right: 25px;
+    border: 2px solid black;
+    font-size: 25px;
+}
+.parol{
+    background-color: #3C362A;
+    color: #B8C4BB;
+    font-size: 25px;
+    border: 2px solid black;
+    margin-right: 25px;
+    padding: 20px;
+}
+.dop{
+    background-color: #663F46;
+    color: #E8F7EE;
+    padding: 20px;
+    font-size: 25px;
+    border: 2px solid black;
+}
+.parent3{
+    display: flex;
+    margin-bottom: 25px;
+}
+.tel{
+    background-color: #22223B;
+    color: #C9ADA7;
+    padding: 20px;
+    margin-right: 25px;
+    font-size: 25px;
+    border: 2px solid black;
+}
+.rod{
+    background-color: #4A4E69;
+    color: #F2E9E4;
+    padding: 20px;
+    margin-right: 50px;
+    border: 2px solid black;
+    font-size: 25px;
+}
+.game{
+    background-color: #C9ADA7;
+    color: #9A8C98;
+    padding: 20px;
+    border: 2px solid black;
+    font-size: 25px;
+}
+.picture{
+    background-color: #21D19F;
+    color: black;
+    border: 2px black solid;
+    padding: 20px;
+    font-size: 25px;
+}
+.tr{
+    background-color: #7293A0;
+    color: #21D19F;
+    padding: 20px;
+    font-size: 25px;
+    text-align: center;
+    margin-right: 50px;
+}
